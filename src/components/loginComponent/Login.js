@@ -174,7 +174,7 @@ const Login = () => {
           </div>
         </form>
         <p className="mt-3 text-gray-400">
-          {!isSignUpForm ? "New To Netflix?" : "Already Joined Netflix? "}
+          {!isSignUpForm ? "New To Watchify?" : "Already Joined Watchify? "}
 
           <span
             className="underline text-blue-500 cursor-pointer"
