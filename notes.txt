@@ -1,0 +1,17 @@
+
+sign in / sign out
+    after auth rediredted to browes page
+
+browes page (authenticated)
+    1 header
+    2 index movie
+        title
+        description
+        buttons
+        background video
+    3 movie cateogory list
+        movies in each cateogory
+
+Netflix GPT
+    1 search bar 
+    2 movie suggetion
