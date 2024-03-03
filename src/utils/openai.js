@@ -3,7 +3,7 @@ import { API_KEY } from "./constant";
 
 const connetOpenAI = (key) => {
   const openai = new OpenAI({
-    apiKey: API_KEY, // defaults to process.env["OPENAI_API_KEY"]
+    apiKey: key, // defaults to process.env["OPENAI_API_KEY"]
     dangerouslyAllowBrowser: true,
   });
   return openai;
