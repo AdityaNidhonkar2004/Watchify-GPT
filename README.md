@@ -35,9 +35,3 @@ We're committed to continuously improving WatchifyGPT to enhance your movie-watc
 🤝 **Contributing**
 
 WatchifyGPT is an open-source project, and we welcome contributions from the community. If you're interested in contributing to the development of WatchifyGPT, please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information on how you can get involved.
-
----
-
-📄 **License**
-
-WatchifyGPT is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
